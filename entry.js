@@ -1,0 +1,1 @@
+module.exports = {"framer-motion": require('framer-motion')};
